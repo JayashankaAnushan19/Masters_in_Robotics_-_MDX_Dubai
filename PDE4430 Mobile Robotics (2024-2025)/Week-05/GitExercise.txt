@@ -1,0 +1,26 @@
+Git Exercise:
+
+Account & Repository Setup (5 minutes):
+- Create a GitLab account if you don't have one: https://labcode.mdx.ac.uk/users/sign_in
+- Set up a new repository on GitLab. Name it something like "git-bootcamp-yourname". 
+- Initialize it with a README file.
+
+Cloning (5 minutes):
+- Clone your newly created repository to your local machine.
+
+Making Changes & Staging (10 minutes):
+- In the cloned repository on your computer, edit the README file. 
+- Maybe add a short introduction about yourself, or describe your project for CW1.
+- Once you've made your changes, stage them using git.
+
+Committing Changes (10 minutes):
+- Commit your staged changes. Remember to use a descriptive commit message, such as "Added a personal introduction."
+
+Pushing Changes (10 minutes):
+- Push your committed changes back to your repository on GitHub.
+
+Scoring:
+- Successfully creating and cloning a repository: 5 points.
+- Editing, staging, and committing changes: 5 points.
+- Successfully pushing changes to GitHub: 5 points.
+- Clarity and descriptiveness of the commit message: 5 points.
